@@ -7,7 +7,7 @@
       
         <div class="hero-body">
           <p class="title">
-            Enrique Rodriguez
+            Enrique Rodríguez
           </p>
           <p class="subtitle">
             Desarollador web y mobile.
@@ -128,7 +128,7 @@ export default {
   data(){
     return {
       favouriteTechs: ["Laravel", "PHP", "Kotlin (Android)", "Java", "Javascript", "Vue.js", "Nuxt.js", "API Rest", "PWA"],
-      interests: ["Emprendimiento","Startup","Rap", "Digitalización de servicios","Sistemas integrados","Movilidad y transporte público","Sistemas Inteligentes de Transporte","Seguridad informática y pentesting","Programación competitiva","Diseño de Software","Big Data aplicado al deporte", "Competiciones de freestyle"]
+      interests: ["Emprendimiento","Startup","Rap", "Digitalización de servicios","Sistemas integrados","Movilidad y transporte público","Sistemas Inteligentes de Transporte","Seguridad informática y pentesting","Programación competitiva","Diseño de Software","Big Data aplicado al deporte", "Competiciones de freestyle","WebScraping"]
     }
   }
 }
